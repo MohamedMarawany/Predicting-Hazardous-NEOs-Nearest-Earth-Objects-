@@ -3,6 +3,8 @@
 ## Project Overview
 This project aims to predict whether a Near-Earth Object (NEO) is hazardous using a dataset provided by NASA. The dataset contains 338,199 records of NEOs observed from 1910 to 2024.
 
+## Drive Link: https://drive.google.com/drive/folders/1r6La6-O86tXIhCNwdoC-zFwF5Ih72GU3?usp=sharing
+
 ## Steps
 1. **Data Cleaning**: Handled missing values and removed irrelevant columns.
 2. **Exploratory Data Analysis (EDA)**: Analyzed distributions, correlations, and class imbalance.
